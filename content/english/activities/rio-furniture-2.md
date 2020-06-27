@@ -1,10 +1,10 @@
 ---
-title: "Rio Furniture"
-description: "this is meta description"
+title: "VYLC"
+description: "An annual convention organised on the occasion of Swamiji's birth anniversary"
 draft: false
 image : "images/portfolio/work2.jpg"
 bg_image: "images/featue-bg.jpg"
-category: "Illustration"
+category: "Annual"
 information:
   - label : "Client"
     info : "Jannie Kelonsky"
@@ -20,32 +20,16 @@ information:
     info : "Jannie Kelonsky"
 ---
 
-## Behance Website Redesign
+## **Vivekananda Youth Leadership Convention**
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
-reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
-at provident soluta consequatur.
+Vivekananda Youth Leadership Convention at IIT Kanpur, from 12th to 14th January 2018. With the focus on **leadership**, **social innovation**, and **youth empowerment**, the Convention aims to make our youth believe in their inner self and disseminate belief in the manifestation of their inherent potential. This is a very unique event, providing inspiration and permuting leadership among the youth who can be the torch bearers in the society tomorrow.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quibusdam sed, neque recusandae, est
-odit. A facere tempore soluta laborum.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, rem eaque facilis. Sit, voluptas?
-Error soluta odio, harum tenetur, alias in iure ipsam blanditiis illo, ratione, magnam a minima incidunt!
-Suscipit facilis, ut maxime libero necessitatibus, rerum aut voluptates aliquam maiores iusto qui
-temporibus nesciunt, incidunt in quasi. Veniam aliquid ea aperiam, obcaecati voluptate ab, temporibus
-fugiat at, inventore molestiae quibusdam, modi numquam debitis libero aut eum. Architecto sit quia quidem
-odit, quasi eveniet reprehenderit rerum dolorem voluptate sed aspernatur numquam enim, adipisci iste optio
-ea libero laboriosam praesentium aperiam nobis vero tempore consequuntur sapiente eos at. Suscipit quis
-voluptatibus temporibus dolore consectetur ex excepturi adipisci sunt. Maxime aperiam eos illum minima
-aliquid voluptate autem qui at impedit recusandae earum possimus, alias, maiores sint, sed quia quis aut
-cupiditate voluptatem reiciendis. Facilis nobis assumenda totam officiis dicta autem dolorem quidem
-similique, delectus rerum laborum veritatis, cum magnam dignissimos necessitatibus possimus error, eius
-omnis veniam culpa, porro officia adipisci exercitationem minus hic. Ipsum veritatis repudiandae nulla quo
-dicta voluptates tenetur mollitia perferendis sequi, magnam doloremque odit similique, sit, voluptas unde
-iste molestias. Accusantium, corporis quibusdam quod in animi earum alias autem ipsum. Eaque rem numquam
-delectus veniam commodi doloribus consequatur deleniti?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores neque vero quasi quisquam atque in,
-libero ab sunt eius! Nesciunt laboriosam alias corporis sit accusantium voluptate sapiente debitis quos
-mollitia saepe maxime ipsum facilis dolore voluptas inventore veniam deleniti, eligendi harum aperiam iusto
-culpa? Delectus dolorum facere quasi iure explicabo?
+The highlights of the Convention are the following:
+
+1. Inspirational talks by eminent leaders from various fields such as industry, administrative services, judiciary, education, defense, entrepreneurs, social service, literature, media, sports, to name a few.
+
+2. Stage play on Swami Vivekananda's life by Rashtrakavi Ramdhari Singh 'Dinkar' Smiriti Nyas.
+
+3. Enriching School events like Quiz, Extempore and Debate, where we invite participation from schools in the Kanpur.

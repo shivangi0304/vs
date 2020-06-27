@@ -1,51 +1,37 @@
 ---
-title: "Rio Furniture"
-description: "this is meta description"
+title: "Weekly Meditation Classes"
+description: "Conducted by Swami Atmashraddhananda Ji, Secretary, RKM Kanpur"
 draft: false
 image : "images/portfolio/work1.jpg"
 bg_image: "images/featue-bg.jpg"
-category: "UI/UX Design"
+category: "Weekly"
 information:
-  - label : "Client"
-    info : "Jannie Kelonsky"
-  - label : "What We Did"
-    info : "Website Redesign"
-  - label : "Tools Used"
-    info : "Photoshop,Illustrator"
-  - label : "Completed on"
-    info : "17th March 2014"
-  - label : "Skills"
-    info : "HTML5 / PHP / CSS3"
-  - label : "Client"
-    info : "Jannie Kelonsky"
+  - label : "Day"
+    info : "Saturday"
+  - label : "Venue"
+    info : "Multipurpose Room, New SAC Building"
+  - label : "Time"
+    info : "9:00 am onwards"
+  - label : "Status"
+    info : "Suspended until further notice"
 ---
 
-## Behance Website Redesign
+## Weekly Meditation Sessions
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
-reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
-at provident soluta consequatur.
+Many times, our efforts in daily life produce subtle results and we are often discouraged to see that there is no outcome. But over time, repeated practice is expected to bear fruits.
+"As people associated with intellectual domain, human mind's ability of concentrating the entire attention in a single subject is a key tool at our disposal. However, we often feel that we are not exploiting this tool to the extent possible."
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quibusdam sed, neque recusandae, est
-odit. A facere tempore soluta laborum.
+One may notice that with limited time/energy, wasting on millions of unproductive thoughts, it is difficult to achieve great things in a short frame of time. However, if we could reduce the number of thoughts and focus more time/energy on each productive thoughts, we will utilize our mental energy to the fullest."
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, rem eaque facilis. Sit, voluptas?
-Error soluta odio, harum tenetur, alias in iure ipsam blanditiis illo, ratione, magnam a minima incidunt!
-Suscipit facilis, ut maxime libero necessitatibus, rerum aut voluptates aliquam maiores iusto qui
-temporibus nesciunt, incidunt in quasi. Veniam aliquid ea aperiam, obcaecati voluptate ab, temporibus
-fugiat at, inventore molestiae quibusdam, modi numquam debitis libero aut eum. Architecto sit quia quidem
-odit, quasi eveniet reprehenderit rerum dolorem voluptate sed aspernatur numquam enim, adipisci iste optio
-ea libero laboriosam praesentium aperiam nobis vero tempore consequuntur sapiente eos at. Suscipit quis
-voluptatibus temporibus dolore consectetur ex excepturi adipisci sunt. Maxime aperiam eos illum minima
-aliquid voluptate autem qui at impedit recusandae earum possimus, alias, maiores sint, sed quia quis aut
-cupiditate voluptatem reiciendis. Facilis nobis assumenda totam officiis dicta autem dolorem quidem
-similique, delectus rerum laborum veritatis, cum magnam dignissimos necessitatibus possimus error, eius
-omnis veniam culpa, porro officia adipisci exercitationem minus hic. Ipsum veritatis repudiandae nulla quo
-dicta voluptates tenetur mollitia perferendis sequi, magnam doloremque odit similique, sit, voluptas unde
-iste molestias. Accusantium, corporis quibusdam quod in animi earum alias autem ipsum. Eaque rem numquam
-delectus veniam commodi doloribus consequatur deleniti?
+Meditation can help you achieve this!
+Vivekananda Samiti, is organizing Meditation classes every Saturday since 6 years and it has been continuing as for the manifold benefits people are gaining, who are regular in practice and following the guidelines of our Instructor.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores neque vero quasi quisquam atque in,
-libero ab sunt eius! Nesciunt laboriosam alias corporis sit accusantium voluptate sapiente debitis quos
-mollitia saepe maxime ipsum facilis dolore voluptas inventore veniam deleniti, eligendi harum aperiam iusto
-culpa? Delectus dolorum facere quasi iure explicabo?
+Meditation session: Each meditation session is unique in it's way and stimulates different energy centers leading to distinct benefits.
+
+Gita session: After the meditation session, there will be discussion on Gita which will be from the Vedantic standpoint, which is the most practical and relevant to our day-to-day life.
+
+We are privileged to organize these sessions under the guidance of Swami Atmashraddhananda, who is currently the Secretary of Ramakrishna Mission Ashram, Kanpur.
+
+Swami Atmashraddhananda ji joined the Ramakrishna Monastic Order in 1989. He has wide knowledge in Vedanta and was the editor of "Vedanta Kesari", a cultural and spiritual monthly magazine for over a century. For 12 years he was the guide for the Vivekananda Study Circle at IIT Madras where he used to conduct a Sunday class for the Study Circle.
+
+We invite all of you to be part of our on going classes.
