@@ -1,0 +1,63 @@
+############################### Banner ##############################
+banner:
+  enable : true
+  bg_image : "images/slider-bg.jpg"
+  bg_overlay : true
+  title : "Vivekananda Samiti, IIT Kanpur"
+  content : "Arise! Awake! And stop not till the goal is reached!"
+  button:
+    enable : true
+    label : "Here's what we do"
+    link : "Activities"
+
+############################# About #################################
+about:
+  enable : true
+  title : "About Us"
+  description : "Vivekananda Samiti is one of the oldest clubs under the Students' Gymkhana functioning for over 48 years, thus spreading the message of Swami Vivekananda among the campus residents."
+  content : "In present year our focus is to apply the concepts of Swami Vivekananda in our daily life through some practical activity for a overall IIT-K community as well as to take active part in nation building.
+
+We have conducted a plethora of events like talks on Vendanta, ancient India, Sanskrit Language and permaculture, special lecture on self-belief exercise and Spoken Sanskrit Language, social Services like Health Camps around the campus. Weekly discussions on Swami Vivekananda's life and teachings, Vendata class, Sanskrit class, meditation session and distribution of Vivekananda literature among youth were also conducted.
+
+Uniqueness of some events conducted this year were to motivate more students & to enhance their soft skills, leadership ability & overall personality for personality development as well as to help them in campus placements."
+  image : "images/wrapper-img.png"
+
+
+############################# Service ############################
+service:
+  enable : false
+  # service content comes from "data/*/service.yml" file
+
+
+############################ call to action ###########################
+cta:
+  enable : true
+  bg_image : "images/call-to-action-bg.jpg"
+  title : "We design delightful digital experiences."
+  content : "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+  button:
+    enable : true
+    label : "Tell Us Your Story"
+    link : "contact"
+
+############################# Funfacts ###############################
+funfacts:
+  enable : true
+  testimonial_slider:
+    # testimonial item loop
+    - name : "Jane Doe"
+      image : "images/clients/avater-1.jpg"
+      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
+                ideas we feel that our site has unique elements that make us stand out from the crowd."
+                
+    # testimonial item loop
+    - name : "Randi Renin"
+      image : "images/clients/avater-1.jpg"
+      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
+                ideas we feel that our site has unique elements that make us stand out from the crowd."
+                
+    # testimonial item loop
+    - name : "Rose Rio"
+      image : "images/clients/avater-3.jpg"
+      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
+                ideas we feel that our site has unique elements that make us stand out from the crowd."
