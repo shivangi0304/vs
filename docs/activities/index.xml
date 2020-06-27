@@ -1,33 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Our Project on Vivekananda Samiti IITK</title>
+    <title>Activities on Vivekananda Samiti IITK</title>
     <link>https://shivangi0304.github.io/vs/activities/</link>
-    <description>Recent content in Our Project on Vivekananda Samiti IITK</description>
+    <description>Recent content in Activities on Vivekananda Samiti IITK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
     
 	<atom:link href="https://shivangi0304.github.io/vs/activities/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Rio Furniture</title>
-      <link>https://shivangi0304.github.io/vs/activities/rio-furniture-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://shivangi0304.github.io/vs/activities/rio-furniture-1/</guid>
-      <description>Behance Website Redesign Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate at provident soluta consequatur.</description>
-    </item>
-    
-    <item>
-      <title>Rio Furniture</title>
-      <link>https://shivangi0304.github.io/vs/activities/rio-furniture-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://shivangi0304.github.io/vs/activities/rio-furniture-2/</guid>
-      <description>Behance Website Redesign Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate at provident soluta consequatur.</description>
-    </item>
     
     <item>
       <title>Rio Furniture</title>
@@ -63,6 +45,24 @@
       
       <guid>https://shivangi0304.github.io/vs/activities/rio-furniture-6/</guid>
       <description>Behance Website Redesign Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate at provident soluta consequatur.</description>
+    </item>
+    
+    <item>
+      <title>VYLC</title>
+      <link>https://shivangi0304.github.io/vs/activities/rio-furniture-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shivangi0304.github.io/vs/activities/rio-furniture-2/</guid>
+      <description>Vivekananda Youth Leadership Convention Vivekananda Youth Leadership Convention at IIT Kanpur, from 12th to 14th January 2018. With the focus on leadership, social innovation, and youth empowerment, the Convention aims to make our youth believe in their inner self and disseminate belief in the manifestation of their inherent potential.</description>
+    </item>
+    
+    <item>
+      <title>Weekly Meditation Classes</title>
+      <link>https://shivangi0304.github.io/vs/activities/rio-furniture-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shivangi0304.github.io/vs/activities/rio-furniture-1/</guid>
+      <description>Weekly Meditation Sessions Many times, our efforts in daily life produce subtle results and we are often discouraged to see that there is no outcome. But over time, repeated practice is expected to bear fruits.</description>
     </item>
     
   </channel>
