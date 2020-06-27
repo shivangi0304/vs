@@ -8,7 +8,7 @@ banner:
   button:
     enable : true
     label : "Here's what we do"
-    link : "Activities"
+    link : "activities"
 
 ############################# About #################################
 about:
