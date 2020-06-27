@@ -1,7 +1,7 @@
 ############################### Banner ##############################
 banner:
   enable : true
-  bg_image : "images/slider-bg.jpg"
+  bg_image : "images/vpt1.jpg"
   bg_overlay : true
   title : "Vivekananda Samiti, IIT Kanpur"
   content : "Arise! Awake! And stop not till the goal is reached!"
@@ -46,7 +46,7 @@ funfacts:
   testimonial_slider:
     # testimonial item loop
     - name : "Jane Doe"
-      image : "images/clients/avater-1.jpg"
+      image : "images/vpt6.jpg"
       content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
                 ideas we feel that our site has unique elements that make us stand out from the crowd."
                 
