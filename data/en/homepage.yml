@@ -14,13 +14,14 @@ banner:
 about:
   enable : true
   title : "About Us"
-  description : "Vivekananda Samiti is one of the oldest clubs under the Students' Gymkhana functioning for over 48 years, thus spreading the message of Swami Vivekananda among the campus residents."
-  content : "In present year our focus is to apply the concepts of Swami Vivekananda in our daily life through some practical activity for a overall IIT-K community as well as to take active part in nation building.
+  description : "Vivekananda Samiti is one of the oldest clubs under the Students' Gymkhana, functioning for over 48 years, thus spreading the message of Swami Vivekananda among the campus residents."
+  content : "In present year our focus is to apply the concepts of Swami Vivekananda in our daily life through some practical activities for an overall IIT-K community as well as to take active part in nation building.
 
-We have conducted a plethora of events like talks on Vendanta, ancient India, Sanskrit Language and permaculture, special lecture on self-belief exercise and Spoken Sanskrit Language, social Services like Health Camps around the campus. Weekly discussions on Swami Vivekananda's life and teachings, Vendata class, Sanskrit class, meditation session and distribution of Vivekananda literature among youth were also conducted.
+In the past years, we have conducted a plethora of events like talks on Vendanta, ancient India, Sanskrit Language and permaculture, special lecture on self-belief exercise and Spoken Sanskrit Language, social Services like Health Camps around the campus. Weekly discussions on Swami Vivekananda's life and teachings, Vendata class, Sanskrit class, meditation session and distribution of Vivekananda literature among youth were also conducted.
+
 
 Uniqueness of some events conducted this year were to motivate more students & to enhance their soft skills, leadership ability & overall personality for personality development as well as to help them in campus placements."
-  image : "images/wrapper-img.png"
+  image : "images/vpt15.jpg"
 
 
 ############################# Service ############################
@@ -45,19 +46,17 @@ funfacts:
   enable : true
   testimonial_slider:
     # testimonial item loop
-    - name : "Jane Doe"
+    - name : "Swami Vivekananda"
       image : "images/vpt6.jpg"
-      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-                ideas we feel that our site has unique elements that make us stand out from the crowd."
+      content : "'Comfort' is no test of truth; on the contrary, truth is often far from being 'comfortable'."
                 
     # testimonial item loop
-    - name : "Randi Renin"
-      image : "images/clients/avater-1.jpg"
-      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-                ideas we feel that our site has unique elements that make us stand out from the crowd."
+    - name : "Swami Vivekananda"
+      image : "images/vpt3.jpg"
+      content : "Strength is in goodness, in purity."
                 
     # testimonial item loop
-    - name : "Rose Rio"
-      image : "images/clients/avater-3.jpg"
-      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-                ideas we feel that our site has unique elements that make us stand out from the crowd."
+    - name : "Swami Vivekananda"
+      image : "images/vpt7.jpg"
+      content : "To be good and to do good--that is the whole of religion.
+"
