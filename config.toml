@@ -79,10 +79,10 @@ hasChildren = true
   name = "VYLC"
   URL = "vylc"
 
-  [[menu.main]]
-  parent = "Pages"
-  name = "Discussion Forum"
-  URL = "discussion"
+  #[[menu.main]]
+  #parent = "Pages"
+  #name = "Discussion Forum"
+  #URL = "discussion"
   
 [[menu.main]]
 name = "Contact"
@@ -111,15 +111,15 @@ name = "Blog"
 URL = "blog"
 weight = 4
 
-[[menu.footer]]
-name = "Discussion"
-URL = "discussion"
-weight = 5
+#[[menu.footer]]
+#name = "Discussion"
+#URL = "discussion"
+#weight = 5
 
 [[menu.footer]]
 name = "Contact"
 URL = "contact"
-weight = 6
+weight = 5
 
 
 #################### default parameters ################################

@@ -1,6 +1,6 @@
 ---
-title: "Drop Us A Note"
-description: "this is meta description"
+title: "Get in touch"
+description: "Become a part of the Samiti and help us grow improve as a community."
 draft: false
-bg_image: "images/featue-bg.jpg"
+bg_image: "images/vpt21.jpg"
 ---
