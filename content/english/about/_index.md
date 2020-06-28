@@ -1,6 +1,6 @@
 ---
-title: "About Our Company"
-description: "this is meta description"
+title: "About Vivekananda Samiti"
+description: "'Shiv bhaven jiva seva'"
 draft: false
-bg_image: "images/featue-bg.jpg"
+bg_image: "images/vpt6.jpg"
 ---

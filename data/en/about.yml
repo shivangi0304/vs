@@ -1,7 +1,7 @@
 ################################## About #####################################
 about:
   enable : true
-  image : "images/company/about.jpg"
+  image : "images/vpt22.jpg"
   title : "'Atmano mokshartham, jagat hitayacha.'"
   content : "With that motto in mind, Vivekananda Samiti works towards enhancing positive energy of individuals, using the power of Karma."
   button:
