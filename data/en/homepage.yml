@@ -4,7 +4,7 @@ banner:
   bg_image : "images/vpt1.jpg"
   bg_overlay : true
   title : "Vivekananda Samiti, IIT Kanpur"
-  content : "Arise! Awake! And stop not till the goal is reached!"
+  content : "Arise! Awake! And stop not until the goal is reached!"
   button:
     enable : true
     label : "Here's what we do"
@@ -17,7 +17,7 @@ about:
   description : "Vivekananda Samiti is one of the oldest clubs under the Students' Gymkhana, functioning for over 48 years, thus spreading the message of Swami Vivekananda among the campus residents."
   content : "In present year our focus is to apply the concepts of Swami Vivekananda in our daily life through some practical activities for an overall IIT-K community as well as to take active part in nation building.
 
-In the past years, we have conducted a plethora of events like talks on Vendanta, ancient India, Sanskrit Language and permaculture, special lecture on self-belief exercise and Spoken Sanskrit Language, social Services like Health Camps around the campus. Weekly discussions on Swami Vivekananda's life and teachings, Vendata class, Sanskrit class, meditation session and distribution of Vivekananda literature among youth were also conducted.
+In the past years, we have conducted a plethora of events like talks on Vendanta, ancient India, Sanskrit Language and permaculture, special lecture on self-belief exercise and Spoken Sanskrit Language, social Services like Health Camps around the campus. Weekly discussions on Swami Vivekananda's life and teachings, Vendata classes, Sanskrit classes, meditation sessions and distribution of Vivekananda literature among youth were also conducted.
 
 
 Uniqueness of some events conducted this year were to motivate more students & to enhance their soft skills, leadership ability & overall personality for personality development as well as to help them in campus placements."
@@ -33,12 +33,12 @@ service:
 ############################ call to action ###########################
 cta:
   enable : true
-  bg_image : "images/vpt1.jpg"
-  title : "We design delightful digital experiences."
-  content : "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+  bg_image : "images/vpt21.jpg"
+  title : "'Experience is the only teacher we have.'"
+  content : "Work with us, learn with us."
   button:
     enable : true
-    label : "Tell Us Your Story"
+    label : "Contact us"
     link : "contact"
 
 ############################# Funfacts ###############################
