@@ -13,15 +13,24 @@ We're glad that you showed interest in the works of Swamiji. Here are a few link
 
 **E-Books:**
 
-- (http://www.advaitaashrama.org/cw/content.php)
-- (http://www.ramakrishnavivekananda.info/gospel/introduction/introduction.htm)
-- (http://advaitaashrama.org/Content/Download/FreeBooks/A Short Life of Swami Vivekananda.pdf)
-- (http://advaitaashrama.org/Content/Download/FreeBooks/A Short Life of Sri Ramakrishna.pdf)
-- (http://advaitaashrama.org/Content/Download/FreeBooks/A Short Life of Holy Mother.pdf)
-- (http://advaitaashrama.org/Content/Download/FreeBooks/Inspiring Lives.pdf)
-- (https://iitk.ac.in/vs/vs/res/downloads/stotram.pdf)
+- [Complete works of Swami Vivekananda](http://www.advaitaashrama.org/cw/content.php)
+
+- [The Gospel of Sri Ramakrishna](http://www.ramakrishnavivekananda.info/gospel/introduction/introduction.htm)
+
+- [A Short Life of Swami Vivekananda](http://advaitaashrama.org/Content/Download/FreeBooks/AShortLifeofSwamiVivekananda.pdf)
+
+- [A Short Life of Sri Ramakrishna](http://advaitaashrama.org/Content/Download/FreeBooks/AShortLifeofSriRamakrishna.pdf)
+
+- [A Short Life of Holy Mother](http://advaitaashrama.org/Content/Download/FreeBooks/AShortLifeofHolyMother.pdf)
+
+- [Inspiring Lives](http://advaitaashrama.org/Content/Download/FreeBooks/InspiringLives.pdf)
+
+- [Lyrics of strotam/speech/arti](https://iitk.ac.in/vs/vs/res/downloads/stotram.pdf)
+
+  
 
 **Video Lectures:**
 
-- Vivekananda Samiti YouTube page
-- RKM Kanpur YouTube page
+- [Vivekananda Samiti YouTube page](https://www.youtube.com/channel/UCwxGr_R4cbgn7cDBxWPbHfQ)
+- [RKM Kanpur YouTube page](https://www.youtube.com/channel/UCfdkUoljOaVEste1ytCWHjg?app=desktop)
+

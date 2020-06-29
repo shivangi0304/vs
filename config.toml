@@ -71,11 +71,11 @@ weight = 4
 
 [[menu.main]]
 weight = 5
-name = "Pages"
+name = "Events"
 hasChildren = true
 
   [[menu.main]]
-  parent = "Pages"
+  parent = "Events"
   name = "VYLC"
   URL = "vylc"
 
@@ -198,5 +198,5 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright &copy; 2020 Vivekananda Samiti, IIT Kanpur All Rights Reserved"
 
