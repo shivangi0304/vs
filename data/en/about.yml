@@ -6,7 +6,7 @@ about:
   content : "With that motto in mind, Vivekananda Samiti works towards enhancing positive energy of individuals, using the power of Karma.\n\n"
   button:
     enable : true
-    label : "Share your thoughts"
+    label : "Share your thoughts."
     link : "contact"
 
       
