@@ -1,10 +1,10 @@
 ---
-title: "Rio Furniture"
+title: "Workshops"
 description: "this is meta description"
 draft: false
-image : "images/portfolio/work6.jpg"
-bg_image: "images/featue-bg.jpg"
-category: "Video"
+image : "images/Workshop2.jpg"
+bg_image: "images/Workshop1.jpg"
+category: "Monthly"
 information:
   - label : "Client"
     info : "Jannie Kelonsky"

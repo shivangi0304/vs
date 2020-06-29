@@ -1,10 +1,10 @@
 ---
-title: "Rio Furniture"
+title: "Cloth and Kambal Donation"
 description: "this is meta description"
 draft: false
-image : "images/portfolio/work3.jpg"
-bg_image: "images/featue-bg.jpg"
-category: "Video"
+image : "images/Cloth donation 2.jpg"
+bg_image: "images/Cloth donation 1.jpg"
+category: "Annual"
 information:
   - label : "Client"
     info : "Jannie Kelonsky"

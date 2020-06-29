@@ -2,8 +2,8 @@
 title: "VYLC"
 description: "An annual convention organised on the occasion of Swamiji's birth anniversary"
 draft: false
-image : "images/portfolio/work2.jpg"
-bg_image: "images/featue-bg.jpg"
+image : "images/VYLC2.jpg"
+bg_image: "images/VYLC3.jpg"
 category: "Annual"
 information:
   - label : "Client"

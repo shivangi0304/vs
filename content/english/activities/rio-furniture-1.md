@@ -2,8 +2,8 @@
 title: "Weekly Meditation Classes"
 description: "Conducted by Swami Atmashraddhananda Ji, Secretary, RKM Kanpur"
 draft: false
-image : "images/portfolio/work1.jpg"
-bg_image: "images/featue-bg.jpg"
+image : "images/Meditation 2.jpg"
+bg_image: "images/Meditation 1.jpg"
 category: "Weekly"
 information:
   - label : "Day"

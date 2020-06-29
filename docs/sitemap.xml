@@ -135,23 +135,11 @@
   </url>
   
   <url>
-    <loc>https://shivangi0304.github.io/vs/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://shivangi0304.github.io/vs/author/john-doe/</loc>
-  </url>
-  
-  <url>
-    <loc>https://shivangi0304.github.io/vs/author/mark-dinn/</loc>
-  </url>
-  
-  <url>
     <loc>https://shivangi0304.github.io/vs/activities/rio-furniture-3/</loc>
   </url>
   
   <url>
-    <loc>https://shivangi0304.github.io/vs/activities/rio-furniture-4/</loc>
+    <loc>https://shivangi0304.github.io/vs/contact/</loc>
   </url>
   
   <url>
@@ -159,7 +147,15 @@
   </url>
   
   <url>
-    <loc>https://shivangi0304.github.io/vs/activities/rio-furniture-6/</loc>
+    <loc>https://shivangi0304.github.io/vs/author/john-doe/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shivangi0304.github.io/vs/activities/rio-furniture-4/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shivangi0304.github.io/vs/author/mark-dinn/</loc>
   </url>
   
   <url>
@@ -168,6 +164,10 @@
   
   <url>
     <loc>https://shivangi0304.github.io/vs/activities/rio-furniture-1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shivangi0304.github.io/vs/activities/rio-furniture-6/</loc>
   </url>
   
 </urlset>

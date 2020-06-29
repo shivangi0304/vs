@@ -1,10 +1,10 @@
 ---
-title: "Rio Furniture"
+title: "Health Camps"
 description: "this is meta description"
 draft: false
-image : "images/portfolio/work5.jpg"
-bg_image: "images/featue-bg.jpg"
-category: "Illustration"
+image : "images/Health camp2.jpg"
+bg_image: "images/Health camp1.jpg"
+category: "Monthly"
 information:
   - label : "Client"
     info : "Jannie Kelonsky"
