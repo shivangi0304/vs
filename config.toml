@@ -64,13 +64,13 @@ name = "Online Resources"
 URL = "online-resources"
 weight = 3
 
-[[menu.main]]
-name = "Blog"
-URL = "blog"
-weight = 4
+#[[menu.main]]
+#name = "Blog"
+#URL = "blog"
+#weight = 4
 
 [[menu.main]]
-weight = 5
+weight = 4
 name = "Events"
 hasChildren = true
 
@@ -87,7 +87,7 @@ hasChildren = true
 [[menu.main]]
 name = "Contact"
 URL = "contact"
-weight = 6
+weight = 5
 
 
 # footer menu
@@ -106,10 +106,10 @@ name = "Online Resources"
 URL = "online-resources"
 weight = 3
 
-[[menu.footer]]
-name = "Blog"
-URL = "blog"
-weight = 4
+#[[menu.footer]]
+#name = "Blog"
+#URL = "blog"
+#weight = 4
 
 #[[menu.footer]]
 #name = "Discussion"
@@ -119,7 +119,7 @@ weight = 4
 [[menu.footer]]
 name = "Contact"
 URL = "contact"
-weight = 5
+weight = 4
 
 
 #################### default parameters ################################

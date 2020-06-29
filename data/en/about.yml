@@ -3,10 +3,17 @@ about:
   enable : true
   image : "images/vpt22.jpg"
   title : "'Atmano mokshartham, jagat hitayacha.'"
-  content : "With that motto in mind, Vivekananda Samiti works towards enhancing positive energy of individuals, using the power of Karma.\n\n"
+  content : "With that motto in mind, Vivekananda Samiti works towards enhancing positive energy of individuals, using the power of Karma.
+
+
+In present year our focus is to apply the concepts of Swami Vivekananda in our daily life through some practical activities for an overall IIT-K community as well as to take active part in nation building. In the past years, we have conducted a plethora of events like talks on Vendanta, ancient India, Sanskrit Language and permaculture, special lecture on self-belief exercise and Spoken Sanskrit Language, social Services like Health Camps around the campus. Weekly discussions on Swami Vivekananda’s life and teachings, Vendata classes, Sanskrit classes, meditation sessions and distribution of Vivekananda literature among youth were also conducted.
+
+
+Uniqueness of some events conducted this year were to motivate more students & to enhance their soft skills, leadership ability & overall personality for personality development as well as to help them in campus placements."
+
   button:
     enable : true
-    label : "Share your thoughts."
+    label : "Share your thoughts"
     link : "contact"
 
       
