@@ -1,6 +1,5 @@
 ---
 title: "Workshops"
-description: "this is meta description"
 draft: false
 image : "images/Workshop2.jpg"
 bg_image: "images/Workshop1.jpg"

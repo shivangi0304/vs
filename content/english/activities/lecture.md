@@ -1,6 +1,5 @@
 ---
 title: "Lectures"
-description: "this is meta description"
 draft: false
 image : "images/Lecture 1.jpg"
 bg_image: "images/Lecture 2.jpg"

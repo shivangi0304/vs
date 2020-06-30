@@ -69,15 +69,15 @@ weight = 3
 #URL = "blog"
 #weight = 4
 
-[[menu.main]]
-weight = 4
-name = "Events"
-hasChildren = true
+#[[menu.main]]
+#weight = 4
+#name = "Events"
+#hasChildren = true
 
-  [[menu.main]]
-  parent = "Events"
-  name = "VYLC"
-  URL = "vylc"
+  #[[menu.main]]
+  #parent = "Events"
+  #name = "VYLC"
+  #URL = "vylc"
 
   #[[menu.main]]
   #parent = "Pages"
@@ -87,7 +87,7 @@ hasChildren = true
 [[menu.main]]
 name = "Contact"
 URL = "contact"
-weight = 5
+weight = 4
 
 
 # footer menu

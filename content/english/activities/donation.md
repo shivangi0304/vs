@@ -1,6 +1,5 @@
 ---
 title: "Cloth and Kambal Donation"
-description: "this is meta description"
 draft: false
 image : "images/Cloth donation 2.jpg"
 bg_image: "images/Cloth donation 1.jpg"

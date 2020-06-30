@@ -1,6 +1,5 @@
 ---
 title: "Health Camps"
-description: "this is meta description"
 draft: false
 image : "images/Health camp2.jpg"
 bg_image: "images/Health camp1.jpg"
