@@ -2,7 +2,7 @@
 title: "Workshops"
 draft: false
 image : "images/Workshop2.jpg"
-bg_image: "images/Workshop1.jpg"
+bg_image: "images/Workshop 1.jpg"
 category: "Monthly"
 information:
   - label : "Client"
